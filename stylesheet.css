@@ -244,8 +244,9 @@ img {
 
 .slide img {
     max-width: 100%;
+    width: auto;
     height: auto;
-    max-height: 400px;
+    max-height: 600px;
 }
 
 .slide h3 {
